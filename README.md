@@ -8,8 +8,8 @@ ___
 ___
 
 ## Docuementation
-1. Research Notes
-2. Video Product
+1.1 - 2/8/2020 - Research animation and writing to files
+1.2 - 2/10/2020 - Experiement with basic animation with painting components
 
 ___
 
