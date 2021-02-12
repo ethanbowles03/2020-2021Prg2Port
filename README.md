@@ -7,11 +7,14 @@ ___
 ___
 ___
 
+## Docuementation
+1. Research Notes
+2. Video Product
+
+___
 
 ## Class Diagram
 ![Logo](https://github.com/ethanbowles03/2020CP2Project/blob/main/CONTENTS/CardBattleClassDiagram.png?raw=true)
 
 
-## Docuementation
-1. Research Notes
-2. Video Product
+
