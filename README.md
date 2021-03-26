@@ -13,7 +13,7 @@ ___
 
 ___
 
-## Code
+## Timeline/Progress
 
 #### 1.1 - Create Main Method and Frame
 #### 1.2 - Learn How to Use Animations and Implement 
