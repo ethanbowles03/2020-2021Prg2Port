@@ -26,3 +26,8 @@ ___
 
 ## Screen Captures
 
+#### Final Product
+
+![img](CONTENTS/CryptoMinerSC.png)
+
+
