@@ -7,6 +7,12 @@ ___
 ___
 ___
 
+## Code
+
+[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/src/)
+
+___
+
 ## Class Diagram
 ![Logo](https://github.com/ethanbowles03/2020CP2Project/blob/main/CONTENTS/CryptoMinerClassDiagram.png?raw=true)
 
@@ -15,4 +21,8 @@ ___
 ## User Interface
 
 ![img](CONTENTS/GUICrypto.png)
+
+___
+
+## Screen Captures
 
