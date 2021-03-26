@@ -7,13 +7,6 @@ ___
 ___
 ___
 
-## Docuementation
-1.1 - 2/8/2020 - Research animation and writing to files
-
-1.2 - 2/10/2020 - Experiement with basic animation with painting components
-
-___
-
 ## Class Diagram
 ![Logo](https://github.com/ethanbowles03/2020CP2Project/blob/main/CONTENTS/CryptoMinerClassDiagram.png?raw=true)
 
