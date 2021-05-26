@@ -1,8 +1,3 @@
-# Crypto-Miner
-
-___
-___
-___
 
 ![Logo](CONTENTS/CryptoMinerLogo.draw.png)
 ___
