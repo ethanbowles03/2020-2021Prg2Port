@@ -14,6 +14,10 @@ ___
 <h2 align="center">Crypto-Miner</h2>
 
 #### Crypto-Miner is an idle game that simulates mining crypto-currency. The game was inspired by games like Adventure Capitalist and other idle games. As a user, you will buy better and faster mining machines to mine more crypto-currencies. The game tracks the actual prices of crypto-currencies adding a further challenge to the user on when to sell. The goal of the user is to make as much money as possible. 
+<p align="center">
+  <img src="CryptoMiner/CONTENTS/CryptoMinerLogo.draw.png" />
+</p>
+
 ![Logo](CryptoMiner/CONTENTS/CryptoMinerLogo.draw.png)
 ___
 <h2 align="center">Learning Menu</h2>
