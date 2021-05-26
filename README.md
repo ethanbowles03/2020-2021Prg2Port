@@ -25,6 +25,8 @@ ___
 ___
 <h2 align="center">Learning Menu</h2>
 
+## Places 1st in state of Utah
+
 #### Learning Menu is an application I developed in C# to compete in my State TSA Software Development competition. It is an application to be used by teachers and students in classrooms. It allows teachers to create courses or assignments for students to select themselves. This gives students and teachers more freedom in creating and choosing their assignments. Students can create selections of courses/assignments. Furthermore, students and teachers have different accounts allowing different access to certain people. For example, students aren't allowed to make courses and edit accounts. 
 
 ___
