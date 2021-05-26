@@ -32,6 +32,7 @@ ___
 </p>
 
 [Link to Learning Menu](LearningMenu)
+
 ___
 <h2 align="center">Cannonball Trajectory</h2>
 
@@ -42,6 +43,7 @@ ___
 </p>
 
 [Link to Cannonball Trajectory](Cannon)
+
 ___
 <h2 align="center">Lottery Game</h2>
 
@@ -52,4 +54,6 @@ ___
 </p>
 
 [Link to Cannonball Trajectory](LotteryGame)
+
+___
 ___
