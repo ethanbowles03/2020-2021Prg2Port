@@ -1,4 +1,4 @@
-# 2020 Programming 2 Project Portfolio
+# Crypto-Miner
 
 ___
 ___
