@@ -3,3 +3,18 @@
 
 ___
 ___
+<h2 align="center">Launchpad</h2>
+
+___
+<h2 align="center">Crypto-Miner</h2>
+
+___
+<h2 align="center">Learning Menu</h2>
+
+___
+<h2 align="center">Cannonball Trajectory</h2>
+
+___
+<h2 align="center">Lottery Game</h2>
+
+___
