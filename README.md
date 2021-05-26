@@ -6,6 +6,7 @@ ___
 <h2 align="center">Launchpad</h2>
 
 #### Launchpad is a simulation of a music sound pad that DJs and producers use. My group and I created this app using java swing, implementing many features from JButtons to ArrayLists to store looping audios. It is fully functional with up to 25 .WAV files which the user can select and also includes loop and stop buttons to create some amazing mixes. The user is also allowed to import their sounds into the "soundFiles" file. 
+[Logo](Launchpad/CONTENTS/background.png)
 
 ___
 <h2 align="center">Crypto-Miner</h2>
