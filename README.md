@@ -56,4 +56,10 @@ ___
 [Link to Cannonball Trajectory](LotteryGame)
 
 ___
+#### Please feel free to look at all of my chapter projects and assignments with the 2 links below
+[Link to Chapters](Chapters)
+[Link to Semester 1](Sem1)
+[Link to Semester 2](Sem2)
+
+___
 ___
