@@ -12,7 +12,7 @@ ___
 
 [Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src)
 
-[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/src/MenuProgramEB.zip?raw=true)
+[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/src/MenuProgramEB.zip?raw=true)(bins -> debug -> .exe)
 
 ___
 
