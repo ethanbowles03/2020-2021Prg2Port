@@ -9,15 +9,9 @@ ___
 
 ## Code
 
-[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src/code)
+[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src)
 
-[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/src/MenuProgramEB.zip?raw=true)(bins -> debug -> .exe)
-
-___
-
-## Documentation and Design
-
-<a href="https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/CONTENTS/SchoolCoursePortfolioTSADocument.pdf?raw=true" target="_blank">View documents</a>
+[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Cannon/src/Cannonball.jar?raw=true)(**In Terminal** java -jar Cannonball.jar)
 
 ___
 
@@ -25,24 +19,17 @@ ___
 
 ### Final Product
  
-Login Screen
+Terminal
 
-![img](CONTENTS/Export/Login.PNG)
+![img](CONTENTS/TermShot.PNG)
 
-Teacher Menu
+Shot 1 @ 25 degrees
 
-![img](CONTENTS/Export/TeacherMenu.PNG)
+![img](CONTENTS/Shot1.PNG)
 
-Student Menu
+Shot 1 @ 80 degrees
 
-![img](CONTENTS/Export/StudentMenu.png)
+![img](CONTENTS/Shot2.png)
 
-Selections Screen
-
-![img](CONTENTS/Export/Selections.PNG)
-
-Users Screen
-
-![img](CONTENTS/Export/User.PNG)
 
 
