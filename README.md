@@ -57,9 +57,9 @@ ___
 
 ___
 #### Please feel free to look at all of my chapter projects and assignments with the 2 links below
-[Link to Chapters](ChapterProjects)
+[Link to Chapters](ChapterProjects?raw=true)
 
-[Link to Assignments](Classwork)
+[Link to Assignments](Classwork?raw=true)
 
 ___
 ___
