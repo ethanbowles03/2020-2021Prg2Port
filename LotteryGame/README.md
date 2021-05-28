@@ -1,4 +1,7 @@
-![Logo](CONTENTS/Lottery.png)
+<p align="center">
+  <img src="CONTENTS/Lottery.png" />
+</p>
+
 ___
 
 ## Chapter 2 Project
