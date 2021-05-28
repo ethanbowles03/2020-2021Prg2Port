@@ -1,5 +1,5 @@
 
-![Logo](CONTENTS/LearningMenu.draw.png)
+![Logo](CONTENTS/LearningMenu.png)
 ___
 
 ## 2020 AP Computer Programming Project
@@ -10,7 +10,9 @@ ___
 
 ## Code
 
-[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/src/)
+[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src)
+
+[Click here to download jar]()
 
 ___
 
@@ -34,11 +36,6 @@ ___
 #### 1.16 - Implement Cash Exchange
 #### 1.17 - Debug
 
-
-___
-
-## Class Diagram
-![Logo](CONTENTS/CryptoMinerClassDiagram.png?raw=true)
 
 ___
 
