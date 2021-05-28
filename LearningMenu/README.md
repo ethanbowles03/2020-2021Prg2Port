@@ -24,9 +24,27 @@ ___
 
 ## Screen Captures
 
-#### Final Product
+### Final Product
+ 
+Login Screen
 
-![img](CONTENTS/CryptoMinerSC.png)
+![img](CONTENTS/Export/Login.PNG)
+
+Teacher Menu
+
+![img](CONTENTS/Export/TeacherMenu.PNG)
+
+Student Menu
+
+![img](CONTENTS/Export/StudentMenu.png)
+
+Selections Screen
+
+![img](CONTENTS/Export/Selections.PNG)
+
+Users Screen
+
+![img](CONTENTS/Export/User.PNG)
 
 
 
