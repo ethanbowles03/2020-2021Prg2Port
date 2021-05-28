@@ -18,7 +18,7 @@ ___
 
 ## Documentation and Design
 
-[Click here to view documentation]()
+[Click here to view documentation](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/CONTENTS/SchoolCoursePortfolioTSADocument.pdf)
 
 ___
 
