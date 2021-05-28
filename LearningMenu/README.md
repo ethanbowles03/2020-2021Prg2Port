@@ -2,8 +2,8 @@
 ![Logo](CONTENTS/LearningMenu.png)
 ___
 
-## 2020 AP Computer Programming Project
-### Crypto Miner is an idle game where you mine the cryptocurrency with many different kinds of crypto-currency miners which mine at different rates and speeds. As you progress in the game you unlock better miners along with more valuable crypto-currencies. The player mines coins which they can trade for cash to buy objects such as cars and houses. Furthermore, this game is directly linked with the stock market value for eh currency, meaning it is more beneficial to sell the currency on some days rather than others.  
+## 2020 - 2021 TSA State and Nationals
+### Learning Menu is an application I developed in C# to compete in my State TSA Software Development competition. It is an application to be used by teachers and students in classrooms. It allows teachers to create courses or assignments for students to select themselves. This gives students and teachers more freedom in creating and choosing their assignments. Students can create selections of courses/assignments. Furthermore, students and teachers have different accounts allowing different access to certain people. For example, students aren't allowed to make courses and edit accounts.  
 
 ___
 ___
