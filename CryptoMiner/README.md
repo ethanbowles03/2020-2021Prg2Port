@@ -11,7 +11,8 @@ ___
 ## Code
 
 [Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/src/)
-[Download Jar](https://github.com/ethanbowles03/2020CP2Project/blob/main/src/CryptoMiner.jar?raw=true)
+
+[Download Jar](https://github.com/ethanbowles03/2020CP2Project/blob/main/src/cryptominer.jar?raw=true)
 
 ___
 
