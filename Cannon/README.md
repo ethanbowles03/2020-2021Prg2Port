@@ -2,7 +2,7 @@
 ___
 
 ## 2020 - 2021 TSA State and Nationals
-### Learning Menu is an application I developed in C# to compete in my State TSA Software Development competition. It is an application to be used by teachers and students in classrooms. It allows teachers to create courses or assignments for students to select themselves. This gives students and teachers more freedom in creating and choosing their assignments. Students can create selections of courses/assignments. Furthermore, students and teachers have different accounts allowing different access to certain people. For example, students aren't allowed to make courses and edit accounts.  
+### Cannonball Trajectory is an app that allows the user to enter values and see the trajectory of a cannonball shot. This app can be used by students to help visualize projectile motion and calculate the missing values associated with the problem.  
 
 ___
 ___
