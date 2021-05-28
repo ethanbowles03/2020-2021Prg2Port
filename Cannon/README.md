@@ -1,7 +1,7 @@
 ![Logo](CONTENTS/Cannonball.png)
 ___
 
-## 2020 - 2021 TSA State and Nationals
+## Chapter 8 Project
 ### Cannonball Trajectory is an app that allows the user to enter values and see the trajectory of a cannonball shot. This app can be used by students to help visualize projectile motion and calculate the missing values associated with the problem.  
 
 ___
