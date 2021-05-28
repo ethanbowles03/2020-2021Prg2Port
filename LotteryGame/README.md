@@ -14,7 +14,8 @@ ___
 
 [Click here to view code](src)
 
-[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Cannon/src/Cannonball.jar?raw=true)(**In Terminal** java -jar Cannonball.jar)
+[Click here to download jar](LotteryGame/src/LotteryGame.jar?raw=true)
+[Please also download the save file and put it in the same folder as the jar](LotteryGame/src/GameFile.txt?raw=true)
 
 ___
 
