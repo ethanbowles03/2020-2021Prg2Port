@@ -88,6 +88,6 @@ ___
 
 ## User Interface
 
-![img](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Launchpad/CONTENTS/LaunchpadPicture/LaunchpadBackGround.png)
+![img](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Launchpad/CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
 
 
