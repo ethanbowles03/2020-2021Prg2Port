@@ -14,9 +14,9 @@ ___
 
 [Click here to view code](src)
 
-[Click here to download jar](LotteryGame/src/LotteryGame.jar?raw=true)
+[Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LotteryGame/src/LotteryGame.jar?raw=true)
 
-[Please also download the save file and put it in the same folder as the jar](LotteryGame/src/GameTotal.txt?raw=true)
+[Please also download the save file and put it in the same folder as the jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LotteryGame/src/GameTotal.txt?raw=true)
 
 ___
 
