@@ -15,6 +15,7 @@ ___
 [Click here to view code](src)
 
 [Click here to download jar](LotteryGame/src/LotteryGame.jar?raw=true)
+
 [Please also download the save file and put it in the same folder as the jar](LotteryGame/src/GameTotal.txt?raw=true)
 
 ___
@@ -23,5 +24,5 @@ ___
 
 ### Final Product
  
-![img](CONTENTS/Lottery.png)
+![img](CONTENTS/LotteryClip.png)
 
