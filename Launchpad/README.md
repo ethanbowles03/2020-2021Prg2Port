@@ -1,4 +1,5 @@
-![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/background.png)
+![img](CONTENTS/background.png)
+
 ___
 
 # Launchpad
@@ -47,8 +48,10 @@ ___
 * Multidimensional Array is used for sound buttons on screen
 * Exception handling and I/O is used to read sound files and play all clips
 * We use a linked list as a way to store all looping sounds
+
 ___
 ## Documentation
+
 12.1 - Creating The Repo
 
 12.3 - Creating the GFX
@@ -74,11 +77,12 @@ ___
 ___
 
 ## Class Diagrams
-![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/LaunchPad.png)
+![img](CONTENTS/LaunchPad.png)
+
 ___
 
 ## User Interface
 
-![img](https://github.com/ConstantineLinardakis/Group-Project-7/blob/main/CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
+![img](CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
 
 
