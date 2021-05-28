@@ -10,38 +10,15 @@ ___
 
 ## Code
 
-[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src)
+[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src/code)
 
 [Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/src/MenuProgramEB.zip?raw=true)(bins -> debug -> .exe)
 
 ___
 
-## Timeline/Progress
+## Documentation and Design
 
-#### 1.1 - Create Main Method and Frame
-#### 1.2 - Learn How to Use Animations and Implement 
-#### 1.3 - Create Multiple Animations and Make Total Labels
-#### 1.4 - Create Bar Class
-#### 1.5 - Make Button Class
-#### 1.6 - Make Buttons Show Their Cost and The Next Button Available
-#### 1.7 - Make Upgrade Label
-#### 1.8 - Get Button ActionListner Working
-#### 1.9 - Make Bars Different Values and Speeds
-#### 1.10 - Create Crypto Label
-#### 1.11 - Create Stock Puller With URL Class
-#### 1.12 - Make Upgrade Button To Change Between Multiple CryptoCurrencies
-#### 1.13 - Create Cash Label
-#### 1.14 - Make Upgrade Buttons Work
-#### 1.15 - Create Cash Exchange Button
-#### 1.16 - Implement Cash Exchange
-#### 1.17 - Debug
-
-
-___
-
-## User Interface
-
-![img](CONTENTS/GUICrypto.png)
+[Click here to view documentation]()
 
 ___
 
