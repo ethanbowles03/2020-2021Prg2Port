@@ -1,4 +1,4 @@
-![img](CONTENTS/background.png)
+![img](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Launchpad/CONTENTS/background.png)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 ___
 
 ## Class Diagrams
-![img](CONTENTS/LaunchPad.png)
+![img](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Launchpad/CONTENTS/LaunchPad.png)
 
 
 ___
@@ -88,6 +88,6 @@ ___
 
 ## User Interface
 
-![img](CONTENTS/Launchpad%20Pictures/LaunchpadBackground.png)
+![img](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Launchpad/CONTENTS/LaunchpadPicture/LaunchpadBackGround.png)
 
 
