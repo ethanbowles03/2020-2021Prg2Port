@@ -57,9 +57,8 @@ ___
 
 ___
 #### Please feel free to look at all of my chapter projects and assignments with the 2 links below
-[Link to Chapters](Chapters)
-[Link to Semester 1](Sem1)
-[Link to Semester 2](Sem2)
+[Link to Chapters](ChapterProjects)
+[Link to Assignments](Classwork)
 
 ___
 ___
