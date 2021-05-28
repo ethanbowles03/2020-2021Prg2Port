@@ -13,6 +13,7 @@ Ethan Bowles [Java/Button File Manager](https://github.com/ConstantineLinardakis
 
 Our Launchpad consist of a variety of sounds, and a few buttons like; Pause, Loop, and a Color Changing Buttons.
 Users have the ability to add their own sounds to the audio file and uses them on the launchpad. 
+
 ___
 
 ### Download
@@ -24,6 +25,7 @@ Feel free to click -> [Zip File](https://github.com/ConstantineLinardakis/Group-
 > To use the launchpad simply open the app and start pressing the 25 square buttons.
 > To loop sounds press loop and to pause all sounds press pause.
 > The user can change the color of the buttons by pressing the button with the capital C on it.
+
 ___
 
 ### Year 2 Concepts
@@ -74,12 +76,15 @@ ___
 
 5.20.21 - Debugged Launchpad
 
+
 ___
 
 ## Class Diagrams
 ![img](CONTENTS/LaunchPad.png)
 
+
 ___
+
 
 ## User Interface
 
