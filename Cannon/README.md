@@ -9,7 +9,7 @@ ___
 
 ## Code
 
-[Click here to view code](https://github.com/ethanbowles03/2020CP2Project/blob/main/LearningMenu/src)
+[Click here to view code](src)
 
 [Click here to download jar](https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/Cannon/src/Cannonball.jar?raw=true)(**In Terminal** java -jar Cannonball.jar)
 
@@ -21,11 +21,11 @@ ___
  
 Terminal
 
-![img](CONTENTS/TermShot.PNG)
+![img](CONTENTS/TermShot.png)
 
 Shot 1 @ 25 degrees
 
-![img](CONTENTS/Shot1.PNG)
+![img](CONTENTS/Shot1.png)
 
 Shot 1 @ 80 degrees
 
