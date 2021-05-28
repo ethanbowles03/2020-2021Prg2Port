@@ -18,7 +18,7 @@ ___
 
 ## Documentation and Design
 
-<a href="https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/CONTENTS/SchoolCoursePortfolioTSADocument.pdf" target="_blank">View documents</a>
+<a href="https://github.com/ethanbowles03/2020-2021Prg2Port/blob/main/LearningMenu/CONTENTS/SchoolCoursePortfolioTSADocument.pdf?raw=true" target="_blank">View documents</a>
 
 ___
 
