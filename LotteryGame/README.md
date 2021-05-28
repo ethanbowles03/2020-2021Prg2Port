@@ -15,7 +15,7 @@ ___
 [Click here to view code](src)
 
 [Click here to download jar](LotteryGame/src/LotteryGame.jar?raw=true)
-[Please also download the save file and put it in the same folder as the jar](LotteryGame/src/GameFile.txt?raw=true)
+[Please also download the save file and put it in the same folder as the jar](LotteryGame/src/GameTotal.txt?raw=true)
 
 ___
 
@@ -23,16 +23,5 @@ ___
 
 ### Final Product
  
-Terminal
-
-![img](CONTENTS/TermShot.png)
-
-Shot 1 @ 25 degrees
-
-![img](CONTENTS/Shot1.png)
-
-Shot 1 @ 80 degrees
-
-![img](CONTENTS/Shot2.png)
-
+![img](CONTENTS/Lottery.png)
 
