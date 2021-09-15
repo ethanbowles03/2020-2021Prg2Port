@@ -53,7 +53,7 @@ ___
   <img src="LotteryGame/CONTENTS/Lottery.png" />
 </p>
 
-[Link to Cannonball Trajectory](LotteryGame)
+[Link to Lottery Game](LotteryGame)
 
 ___
 #### Please feel free to look at all of my chapter projects and assignments with the 2 links below
