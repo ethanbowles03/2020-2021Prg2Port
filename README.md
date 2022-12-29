@@ -64,6 +64,12 @@ ___
 ___
 ___
 
+<h1 align="center">Programming 1 Portfolio || 2018 - 2019</h1>
+<h2 align="center">By Ethan Bowles</h2>
+
+___
+___
+
 ## Processing
 ### -ScreenSaverApp-
 #### --Completed Oct. 30 2019--
