@@ -8,22 +8,22 @@ Ethan Bowles [Java/Button File Manager](https://github.com/ConstantineLinardakis
 [WEBSITE LINK](https://constantinelinardakis.github.io/Group-Project-7/)
 
 <dl>
-  <dt> Launchpad is a java based application. It is a simulation of a Launchpad which has the ability to play, loop and pause music! </dt>
+  <dt> Launchpad is a java based application. It is a simulation of a launchpad which has the ability to play, loop and pause music! </dt>
 </dl>
 
-Our Launchpad consist of a variety of sounds, and a few buttons like; Pause, Loop, and a Color Changing Buttons.
-Users have the ability to add their own sounds to the audio file and uses them on the launchpad. 
+Our Launchpad consist of a variety of sounds, and a few buttons such as, Pause, Loop, and Color Changing.
+Users have the ability to add their own sounds to the audio file and use them on the launchpad. 
 
 ___
 
 ### Download
 Feel free to click -> [Zip File](https://github.com/ConstantineLinardakis/Group-Project-7/archive/refs/heads/main.zip)
-> After install make sure to open the zip, and export somewhere you can access. You can run the exicutable .jar file in the termianl or compile the code.
-> In order for the app to run without erros you must have the "soundFiles" folder given in the download, with the app/exacutable.
-> If this file is not present the app will not play anysounds.
-> Furthermore, sound files added by the user must be add to this folder and be a .wav format.
-> To use the launchpad simply open the app and start pressing the 25 square buttons.
-> To loop sounds press loop and to pause all sounds press pause.
+> After install, make sure to open the zip and export somewhere you can access. You can run the exicutable .jar file in the terminal or compile the code.
+> In order for the app to run without errors you must have the "soundFiles" folder given in the download, with the app/exacutable.
+> If this file is not present, the app will not play any sounds.
+> Furthermore, sound files added by the user must be added to this folder and be a .wav format.
+> To use the launchpad, simply open the app and start pressing the 25 square buttons.
+> To loop sounds, press Loop and to pause all sounds press Pause.
 > The user can change the color of the buttons by pressing the button with the capital C on it.
 
 ___
