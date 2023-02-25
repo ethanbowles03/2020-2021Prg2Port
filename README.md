@@ -82,9 +82,9 @@ It has a white background and randomly generates lines that connect in shades of
 
 ### -CalculatorApp-
 ##### --Completed Nov. 20 2019--
-My calculator is an object oriented program with most of the basic function on most calculators
+My calculator is an object oriented program with most of the basic function on most calculators.
 
-The calculator has a grey and black theme along with a screen which prints numbers as you click them
+The calculator has a grey and black theme along with a screen which prints numbers as you click them.
 
 ![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc1.png?raw=true)
 ![Calculator Mockup](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/calcMock.jpg?raw=true)
@@ -93,11 +93,11 @@ The calculator has a grey and black theme along with a screen which prints numbe
 
 ### -SpaceShipGame-
 #### --Completed Jan. 10--
-My space ship game is an object oriented program that use a ship, rocks and lasers to compose a game
+My space ship game is an object oriented program that uses a ship, rocks and lasers to compose a game.
 
-You fly a f-13 through space and try to hit every astriod, as they pass, with lasers
+You fly a F-18 through space and try to hit every asteroid, as they pass, with lasers.
 
-If they pass or hit you take damage. If you health reaches 0 you lose
+If they pass or hit you, you take damage. If your health reaches 0, you lose.
 
 ![SpaceShipGame](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShip.png?raw=true)
 ![SpaceShipGameMockUp](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/MockUp.png?raw=true)
@@ -107,9 +107,9 @@ If they pass or hit you take damage. If you health reaches 0 you lose
 
 ### -ItsADate-
 #### --Completed Fri. Feb 8--
-The its a date app was one of the first programs i created in c++
+The 'ItsADate' app was one of the first programs i created in C++.
 
-You input your birthday and it prints information about how long you have lived such as day, months and years.
+You input your birthday and it prints information about how long you have lived such as days, months and years.
 
 ![ItsADate](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/ItsADate.png?raw=true)
 
@@ -117,11 +117,11 @@ You input your birthday and it prints information about how long you have lived 
 
 ### -WordCreator-
 #### --Completed Mar.12 2019--
-My word creator app is a random word generator
+My 'WordCreator' app is a random word generator.
 
-It generates a random prexif suffix and root word and creats a new word
+It generates a random prexif, suffix, and root word, and creats a new word.
 
-It also provides the defenintion for the new word using the defenitions from the prefix, siffix and root word
+It also provides the defenintion for the new word using the defenitions from the prefix, suffix and root word.
 
 ![Word Creator](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/WordCreator.png?raw=true)
  [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/tree/master/WordCreator/Word%20Creator%20Group%201)
@@ -129,13 +129,13 @@ It also provides the defenintion for the new word using the defenitions from the
 ### -ShrekAdventureGame-
 #### -- Completed Mar. 4 2019--
 
-The shrek game is a story game
+The 'ShrekAdventureGame' is a story game.
 
-It is very similar to the game lifeline on ios
+It is very similar to the game 'Lifeline' on ios.
 
-It goes through the basic plot of the movie and inorder to move on to the next scene you need to answer a set of math related questions
+It goes through the basic plot of the movie. To move on to the next scene, you need to answer a set of math related questions.
 
-It was the first program i created in c++ in which has classes
+It was the first program I created in C++ which has classes.
 
 ![ShrekGame](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/Shrek.png?raw=true)
 [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/tree/master/ShrekAdveture/Shrek%20Adventure)
