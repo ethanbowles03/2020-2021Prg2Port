@@ -77,8 +77,8 @@ My screen saver app creates a full screen screen saver that generates random lin
 
 It has a white background and randomly generates lines that connect in shades of grey and black
 
-![Screen Saver](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/screenSaver.png?raw=true)
-[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Screen/screenSaverApp.zip)
+![Screen Saver](Images/screenSaver.png?raw=true)
+[Click here to view code](Screen/screenSaverApp.zip)
 
 ### -CalculatorApp-
 ##### --Completed Nov. 20 2019--
@@ -86,10 +86,10 @@ My calculator is an object oriented program with most of the basic function on m
 
 The calculator has a grey and black theme along with a screen which prints numbers as you click them.
 
-![Calculator](https://github.com/ethanbowles03/2019ProgrammmingPortfolio/blob/master/Images/calc1.png?raw=true)
-![Calculator Mockup](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/calcMock.jpg?raw=true)
+![Calculator](Images/calc1.png?raw=true)
+![Calculator Mockup](Images/calcMock.jpg?raw=true)
 
-[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Calc/calculatorApp.zip)
+[Click here to view code](Calc/calculatorApp.zip)
 
 ### -SpaceShipGame-
 #### --Completed Jan. 10--
@@ -99,11 +99,11 @@ You fly a F-18 through space and try to hit every asteroid, as they pass, with l
 
 If they pass or hit you, you take damage. If your health reaches 0, you lose.
 
-![SpaceShipGame](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShip.png?raw=true)
-![SpaceShipGameMockUp](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/MockUp.png?raw=true)
-![SpaceShipGameUI](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/SpaceShip%20GameUI.jpg?raw=true)
+![SpaceShipGame](Images/SpaceShip.png?raw=true)
+![SpaceShipGameMockUp](Images/MockUp.png?raw=true)
+![SpaceShipGameUI](Images/SpaceShip%20GameUI.jpg?raw=true)
 
-[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/SpaceGame/spaceShipGame.zip)
+[Click here to view code](SpaceGame/spaceShipGame.zip)
 
 ### -ItsADate-
 #### --Completed Fri. Feb 8--
@@ -111,9 +111,9 @@ The 'ItsADate' app was one of the first programs i created in C++.
 
 You input your birthday and it prints information about how long you have lived such as days, months and years.
 
-![ItsADate](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/ItsADate.png?raw=true)
+![ItsADate](Images/ItsADate.png?raw=true)
 
-[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/ItsADate/date.cpp)
+[Click here to view code](ItsADate/date.cpp)
 
 ### -WordCreator-
 #### --Completed Mar.12 2019--
@@ -123,8 +123,8 @@ It generates a random prexif, suffix, and root word, and creats a new word.
 
 It also provides the defenintion for the new word using the defenitions from the prefix, suffix and root word.
 
-![Word Creator](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/WordCreator.png?raw=true)
- [Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/tree/master/WordCreator/Word%20Creator%20Group%201)
+![Word Creator](Images/WordCreator.png?raw=true)
+ [Click here to view code](WordCreator/Word%20Creator%20Group%201)
 
 ### -ShrekAdventureGame-
 #### -- Completed Mar. 4 2019--
@@ -137,5 +137,5 @@ It goes through the basic plot of the movie. To move on to the next scene, you n
 
 It was the first program I created in C++ which has classes.
 
-![ShrekGame](https://github.com/ethanbowles03/Programming-Portfolio/blob/master/Images/Shrek.png?raw=true)
-[Click here to view code](https://github.com/ethanbowles03/Programming-Portfolio/tree/master/ShrekAdveture/Shrek%20Adventure)
+![ShrekGame](Images/Shrek.png?raw=true)
+[Click here to view code](ShrekAdveture/Shrek%20Adventure)
